@@ -1,0 +1,6 @@
+{
+  "name": "Chem Socrates",
+  "description": "An interactive chatbot named Chem Socrates that uses the Socratic method to help students study for chemistry tests by asking guiding questions instead of giving direct answers.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
